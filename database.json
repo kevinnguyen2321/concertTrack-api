@@ -4,61 +4,61 @@
       "id": 1,
       "fullName": "John Doe",
       "email": "john.doe@example.com",
-      "profilePic": "https://robohash.org/John%20Doe?set=set2"
+      "profilePic": "https://robohash.org/John Doe"
     },
     {
       "id": 2,
       "fullName": "Jane Smith",
       "email": "jane.smith@example.com",
-      "profilePic": "https://robohash.org/Jane%20Smith?set=set3"
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Jane+Smith"
     },
     {
       "id": 3,
       "fullName": "Michael Franc",
       "email": "michael.franc@example.com",
-      "profilePic": "https://robohash.org/Michael%20Franc"
+      "profilePic": "https://robohash.org/Michael Franc"
     },
     {
       "id": 4,
       "fullName": "Emily Davis",
       "email": "emily.davis@example.com",
-      "profilePic": "https://robohash.org/Emily%20Davis?set=set4"
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Emily+Davis"
     },
     {
       "id": 5,
       "fullName": "David Brown",
       "email": "david.brown@example.com",
-      "profilePic": "https://robohash.org/David%20Brown?set=set2"
+      "profilePic": "https://robohash.org/David Brown"
     },
     {
       "id": 6,
       "fullName": "Emma Wilson",
       "email": "emma.wilson@example.com",
-      "profilePic": "https://robohash.org/Emma%20Wilson"
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Emma+Wilson"
     },
     {
       "id": 7,
       "fullName": "James Taylor",
       "email": "james.taylor@example.com",
-      "profilePic": "https://robohash.org/James%20Taylor?set=set3"
+      "profilePic": "https://robohash.org/James Taylor"
     },
     {
       "id": 8,
       "fullName": "Sophia Moore",
       "email": "sophia.moore@example.com",
-      "profilePic": "https://robohash.org/Sophia%20Moore?set=set4"
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Sophia+Moore"
     },
     {
       "id": 9,
       "fullName": "Chris Anderson",
       "email": "chris.anderson@example.com",
-      "profilePic": "https://robohash.org/Chris%20Anderson"
+      "profilePic": "https://robohash.org/Chris Anderson"
     },
     {
       "id": 10,
       "fullName": "Olivia Lee",
       "email": "olivia.lee@example.com",
-      "profilePic": "https://robohash.org/Olivia%20Lee?set=set2"
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Olivia+Lee"
     }
   ],
   "concerts": [
