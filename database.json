@@ -4,19 +4,19 @@
       "id": 1,
       "fullName": "John Doe",
       "email": "john.doe@example.com",
-      "profilePic": "https://robohash.org/John Doe"
+      "profilePic": "https://randomuser.me/api/portraits/men/89.jpg"
     },
     {
       "id": 2,
       "fullName": "Jane Smith",
       "email": "jane.smith@example.com",
-      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Jane+Smith"
+      "profilePic": "https://randomuser.me/api/portraits/women/76.jpg"
     },
     {
       "id": 3,
       "fullName": "Michael Franc",
       "email": "michael.franc@example.com",
-      "profilePic": "https://robohash.org/Michael Franc"
+      "profilePic": "https://randomuser.me/api/portraits/men/30.jpg"
     },
     {
       "id": 4,
@@ -28,13 +28,13 @@
       "id": 5,
       "fullName": "David Brown",
       "email": "david.brown@example.com",
-      "profilePic": "https://robohash.org/David Brown"
+      "profilePic": "https://randomuser.me/api/portraits/men/19.jpg"
     },
     {
       "id": 6,
       "fullName": "Emma Wilson",
       "email": "emma.wilson@example.com",
-      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Emma+Wilson"
+      "profilePic": "https://randomuser.me/api/portraits/women/82.jpg"
     },
     {
       "id": 7,
@@ -46,13 +46,13 @@
       "id": 8,
       "fullName": "Sophia Moore",
       "email": "sophia.moore@example.com",
-      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Sophia+Moore"
+      "profilePic": "https://randomuser.me/api/portraits/women/63.jpg"
     },
     {
       "id": 9,
       "fullName": "Chris Anderson",
       "email": "chris.anderson@example.com",
-      "profilePic": "https://robohash.org/Chris Anderson"
+      "profilePic": "https://randomuser.me/api/portraits/men/47.jpg"
     },
     {
       "id": 10,
@@ -117,15 +117,6 @@
       "userId": 8
     },
     {
-      "id": 7,
-      "date": "2024-06-18",
-      "artist": "Luke Bryan",
-      "genreId": 7,
-      "venue": "Nashville Arena",
-      "rating": 4,
-      "userId": 1
-    },
-    {
       "id": 8,
       "date": "2024-08-05",
       "artist": "Bob Marley Tribute Band",
@@ -151,6 +142,24 @@
       "venue": "Soldier Field",
       "rating": 5,
       "userId": 4
+    },
+    {
+      "artist": "Atlas Genius",
+      "date": "2024-10-01",
+      "genreId": 12,
+      "venue": "Basement East",
+      "rating": 5,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "artist": "Drake",
+      "date": "2024-10-08",
+      "genreId": 3,
+      "venue": "Bridgestone Arena",
+      "rating": 5,
+      "userId": 1,
+      "id": 12
     }
   ],
   "comments": [
@@ -197,13 +206,6 @@
       "userId": 10
     },
     {
-      "id": 7,
-      "text": "Luke Bryan knows how to throw a party! Loved every second.",
-      "date": "2024-06-19",
-      "concertId": 7,
-      "userId": 9
-    },
-    {
       "id": 8,
       "text": "The Bob Marley tribute band was great, but the sound could've been better.",
       "date": "2024-08-06",
@@ -223,6 +225,13 @@
       "date": "2024-07-15",
       "concertId": 10,
       "userId": 1
+    },
+    {
+      "text": "IKR!!!!",
+      "date": "2024-10-02",
+      "concertId": 3,
+      "userId": 7,
+      "id": 11
     }
   ],
   "genres": [
