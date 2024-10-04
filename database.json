@@ -40,7 +40,7 @@
       "id": 7,
       "fullName": "James Taylor",
       "email": "james.taylor@example.com",
-      "profilePic": "https://robohash.org/James Taylor"
+      "profilePic": "https://randomuser.me/api/portraits/men/21.jpg"
     },
     {
       "id": 8,
@@ -144,22 +144,22 @@
       "userId": 4
     },
     {
-      "artist": "Atlas Genius",
-      "date": "2024-10-01",
-      "genreId": 12,
-      "venue": "Basement East",
+      "artist": "Drake",
+      "genreId": 3,
+      "date": "2024-10-02",
+      "venue": "Bridgestone Arena",
       "rating": 5,
       "userId": 1,
       "id": 11
     },
     {
-      "artist": "Drake",
+      "artist": "Luke Bryan",
+      "genreId": 2,
       "date": "2024-10-08",
-      "genreId": 3,
       "venue": "Bridgestone Arena",
-      "rating": 5,
+      "rating": 4,
       "userId": 1,
-      "id": 12
+      "id": 13
     }
   ],
   "comments": [
