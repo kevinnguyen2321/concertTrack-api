@@ -4,7 +4,7 @@
       "id": 1,
       "fullName": "John Doe",
       "email": "john.doe@example.com",
-      "profilePic": "https://randomuser.me/api/portraits/men/89.jpg"
+      "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
     },
     {
       "id": 2,
@@ -59,6 +59,12 @@
       "fullName": "Olivia Lee",
       "email": "olivia.lee@example.com",
       "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=Olivia+Lee"
+    },
+    {
+      "email": "dave@gmail.com",
+      "fullName": "dave",
+      "profilePic": "http://dummyimage.com/150x150/cccccc/ffffff&text=dave",
+      "id": 11
     }
   ],
   "concerts": [
@@ -144,22 +150,40 @@
       "userId": 4
     },
     {
-      "artist": "Drake",
-      "genreId": 3,
-      "date": "2024-10-02",
-      "venue": "Bridgestone Arena",
-      "rating": 5,
-      "userId": 1,
-      "id": 11
+      "artist": "tina turner",
+      "date": "2024-10-25",
+      "genreId": 2,
+      "venue": "Basement East",
+      "rating": 4,
+      "userId": 11,
+      "id": 12
     },
     {
-      "artist": "Luke Bryan",
-      "genreId": 2,
+      "artist": "Cuco",
       "date": "2024-10-08",
-      "venue": "Bridgestone Arena",
-      "rating": 4,
+      "genreId": 12,
+      "venue": "Brooklyn Bowl",
+      "rating": 5,
       "userId": 1,
       "id": 13
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "date": "2024-10-04",
+      "genreId": 12,
+      "venue": "Marathon works",
+      "rating": 5,
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "date": "2024-10-12",
+      "rating": 5,
+      "artist": "Inhaler",
+      "genreId": 12,
+      "venue": "Marathon works",
+      "userId": 1,
+      "id": 17
     }
   ],
   "comments": [
@@ -220,18 +244,39 @@
       "userId": 4
     },
     {
-      "id": 10,
-      "text": "Metallica melted my face! Best metal show I've seen!",
-      "date": "2024-07-15",
-      "concertId": 10,
-      "userId": 1
-    },
-    {
       "text": "IKR!!!!",
       "date": "2024-10-02",
       "concertId": 3,
       "userId": 7,
       "id": 11
+    },
+    {
+      "text": "2DC rocked the house!!!",
+      "userId": 1,
+      "concertId": 14,
+      "date": "2024-10-10",
+      "id": 12
+    },
+    {
+      "text": "I just missed him! Glad it was a good show!",
+      "userId": 1,
+      "concertId": 3,
+      "date": "2024-10-11",
+      "id": 14
+    },
+    {
+      "text": "Nice!",
+      "userId": 1,
+      "concertId": 1,
+      "date": "2024-10-11",
+      "id": 16
+    },
+    {
+      "text": "I bet this show ROCKED!!",
+      "userId": 1,
+      "concertId": 10,
+      "date": "2024-10-11",
+      "id": 17
     }
   ],
   "genres": [
